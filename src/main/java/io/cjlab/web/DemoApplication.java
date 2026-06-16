@@ -1,4 +1,4 @@
-package io.cjlab;
+package io.cjlab.web;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

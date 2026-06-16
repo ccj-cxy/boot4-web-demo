@@ -1,4 +1,4 @@
-package io.cjlab.controller;
+package io.cjlab.web.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

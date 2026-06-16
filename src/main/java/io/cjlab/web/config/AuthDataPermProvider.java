@@ -1,4 +1,4 @@
-package io.cjlab.config;
+package io.cjlab.web.config;
 
 import io.cjlab.mybatisplus.permission.core.DataPermContext;
 import io.cjlab.mybatisplus.permission.core.DataPermProvider;

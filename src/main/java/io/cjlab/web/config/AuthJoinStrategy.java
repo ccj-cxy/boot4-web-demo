@@ -1,4 +1,4 @@
-package io.cjlab.config;
+package io.cjlab.web.config;
 
 import io.cjlab.mybatisplus.permission.core.JoinPermStrategy;
 import net.sf.jsqlparser.schema.Table;
