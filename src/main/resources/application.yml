@@ -1,5 +1,5 @@
 server:
-  port: 19205
+  port: 80
   servlet:
     context-path: /
 
@@ -53,9 +53,9 @@ spring:
       strict: true #严格匹配数据源，默认 false. true 未匹配到指定数据源时抛异常,false 使用默认数据源
       datasource:
         mysql:
-          url: jdbc:mysql://192.168.0.58:3306/workorder
+          url: jdbc:mysql://127.0.0.1:3306/auth_resource
           username: root
-          password: Xbkj123456.
+          password: 123456
           driverClassName: com.mysql.cj.jdbc.Driver
 
 #开发环境打开sql打印减少日志存储
